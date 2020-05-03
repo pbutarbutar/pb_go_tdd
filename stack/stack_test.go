@@ -1,8 +1,8 @@
-package stack
+package stack_test
 
 import (
 	"testing"
-
+	"github.com/pbutarbutar/pb_go_tdd/stack"
 	"github.com/stretchr/testify/assert"
 )
 
